@@ -24,8 +24,6 @@
 - Appendix 1D Figures
 - Figure 35
 
-see my website for these plots in action:
-https://cwmattinson.wixsite.com/connormattinson
 
 ## Figure 1
 *Synthetic dataset*
@@ -86,3 +84,5 @@ parameter initialisations marked every 100 steps*
 
 ![Appendix Figure](Figures/fashioncnn2.png?raw=true)
 
+see my website for more details and projects:
+https://cwmattinson.wixsite.com/connormattinson
