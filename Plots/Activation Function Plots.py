@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 x = np.linspace(-2.5,2.5,50)
 xmore = np.linspace(-2.5,2.5,5000) # used for step for higher precision
 xrelu = np.linspace(-2.45,2.55,50) # helps stagger the makers on the figure
-logistic = 1/(1+np.exp(-x))
+logistic = 1/(1+np.exp(-x)). # In isolation, gives Figure 12
 relu = [np.max([0,i]) for i in xrelu]
 leaky_relu = [np.max([0.1*i,i]) for i in x]
 elu = [0.5*(np.exp(i)-1) if i<=0 else i for i in x]
