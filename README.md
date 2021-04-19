@@ -1,8 +1,11 @@
 # A-Visual-Understanding-of-Fashion
-Using computer vision to understand images of garments
+**Using computer vision to understand images of garments**
 
-Contents
-## Plots
+*Update: The final model with evaluation will be posted here once finished, I was allocated 5 april exams in a row so had to prioritise those*
+
+
+# Contents
+### Plots
 #### A contextual Walk Through Supervised Learning
 - Figure 1
 - Figure 2
@@ -17,7 +20,7 @@ Contents
 - Figure 13
 #### Bilinear Interpolation
 - Figure 34
-#### Convolutional neuarl Networks
+#### Convolutional neural Networks
 - Appendix 1D Figures
 - Figure 35
 
