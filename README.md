@@ -70,10 +70,9 @@ parameter initialisations marked every 100 steps*
 *Precision-Recall Curve for ‘Pullover’ class in fashion MNIST using a CNN classifier*
 
 ![Figure 35](Figures/fig35.png?raw=true)
-## Appendix figure
+## Appendix 1D Figures
 
 ![Appendix Figure](Figures/fashioncnn1.png?raw=true)
-## Appendix figure
 
 ![Appendix Figure](Figures/fashioncnn2.png?raw=true)
 
