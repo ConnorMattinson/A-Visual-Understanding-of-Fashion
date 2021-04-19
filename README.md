@@ -10,7 +10,7 @@ https://cwmattinson.wixsite.com/connormattinson
 ![Figure 3](Figures/Fig3.gif?raw=true)
 ![Figure 4](Figures/Fig4.gif?raw=true)
 ![Figure 7](Figures/Fig7.gif?raw=true)
-![Figure 8](Figures/fig8.gif?raw=true)
+![Figure 8](Figures/fig8?raw=true)
 ![Figure 10](Figures/Fig10.gif?raw=true)
 ![Figure 13](Figures/Fig13.gif?raw=true)
 ![Figure 34](Figures/fig34?raw=true)
