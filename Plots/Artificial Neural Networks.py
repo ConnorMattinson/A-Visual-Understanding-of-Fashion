@@ -174,6 +174,7 @@ ax.set_xlabel('$x_1$')
 ax.set_ylabel('$x_2$')
 ax.set_zlabel('$y$')
 
+# Figure 10
 xx, yy = np.meshgrid([i/100 for i in range(100)], [i/100 for i in range(100)]) # Add surface
 z = np.array([[ forward_propagate(trained_params, np.array([[ xx[i,j] ,  yy[i,j] ]]).T, transfer)[0] for i in range(100)] for j in range(100)])
 z = z[:,:,0]
