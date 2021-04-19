@@ -15,5 +15,5 @@ https://cwmattinson.wixsite.com/connormattinson
 ![Figure 13](Figures/Fig13.gif?raw=true)
 ![Figure 34](Figures/fig34.png?raw=true)
 ![Figure 35](Figures/fig35.png?raw=true)
-![Appendix Figure](Figures/fashionrcnn1.png?raw=true)
-![Appendix Figure](Figures/fashionrcnn2.png?raw=true)
+![Appendix Figure](Figures/fashioncnn1.png?raw=true)
+![Appendix Figure](Figures/fashioncnn2.png?raw=true)
