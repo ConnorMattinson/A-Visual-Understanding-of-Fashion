@@ -5,4 +5,4 @@ see my website for these plots in action:
 
 https://cwmattinson.wixsite.com/connormattinson
 
-![Figure 1](https://github.com/ConnorMattinson/A-Visual-Understanding-of-Fashion/Figures/Fig1.gif?raw=true)
+![Figure 1](Figures/Fig1.gif?raw=true)
