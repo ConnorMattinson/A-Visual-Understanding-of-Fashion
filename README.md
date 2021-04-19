@@ -3,16 +3,23 @@ Using computer vision to understand images of garments
 
 Contents
 ## Plots
-### A contextual Walk Through Supervised Learning
-- Figures 1,2,3,4
-### Activation Function Plots
-- Figure
-### Artificial Neural Networks 
-- Figure
-### Bilinear Interpolation
-- Figure
-### Convolutional neuarl Networks
-- Figure
+#### A contextual Walk Through Supervised Learning
+- Figure 1
+- Figure 2
+- Figure 3
+- Figure 4
+#### Activation Function Plots
+- Figure 8
+- Figure 12
+#### Artificial Neural Networks 
+- Figure 7
+- Figure 10
+- Figure 13
+#### Bilinear Interpolation
+- Figure 34
+#### Convolutional neuarl Networks
+- Appendix 1D Figures
+- Figure 35
 
 see my website for these plots in action:
 https://cwmattinson.wixsite.com/connormattinson
